@@ -11,4 +11,4 @@
 -- SELECT *  FROM db2
 -- WHERE id=4
 
-SET salary=salary+0.1*100 WHERE id=1
+-- UPDATE db2 SET salary=salary+0.1*100 WHERE id=1
